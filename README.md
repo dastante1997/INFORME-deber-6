@@ -305,12 +305,16 @@ Todas las frecuencias son de 15 kHz.
 
 ![image](https://user-images.githubusercontent.com/84789271/179054008-db211931-09ca-42be-acd7-689785bcc936.png)
 
-4.CONCLUSIONES
+4.VIDEO
+
+https://youtu.be/35msHRN7ibU
+
+5.CONCLUSIONES
 
 En conclusion, comprender la teoría es la base para aplicar los conceptos en la resolución de problemas, especialmente en el funcionamiento de corriente y voltaje alternos y capacitores. Los conceptos de capacitores nos muestran cómo se comportan en un circuito cerrado y la relación que existe entre sí cuando están conectados de forma paralela o en serie.
 
 El voltaje y corriente alterna nos permite captar la gran diferencia que hay con la corriente continua en circuitos cerrados.
 
-5.BIBLIOGRAFÍA
+6.BIBLIOGRAFÍA
 
 Floyd, T. (2007). Principios de circuitos eléctricos (Ed. 8va). Educación Pearson.
